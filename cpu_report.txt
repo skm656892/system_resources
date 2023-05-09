@@ -1,0 +1,56 @@
+start time : 2023-05-07 01:16:31.143245 
+Physical cores: 4 
+Total cores: 4 
+Max Frequency: 4000 Mhz 
+Min Frequency: 0 Mhz 
+Current Frequency: 4000 Mhz 
+CPU Usage Per Core: Core 0: 1 Percent 
+Core 1: 1 Percent 
+Core 2: 3 Percent 
+Core 3: 0 Percent 
+Total CPU Usage: 2 Percent 
+=======end======= 
+
+
+start time : 2023-05-07 01:18:33.691391 
+Physical cores: 4 
+Total cores: 4 
+Max Frequency: 4000 Mhz 
+Min Frequency: 0 Mhz 
+Current Frequency: 4000 Mhz 
+CPU Usage Per Core: Core 0: 1 Percent 
+Core 1: 1 Percent 
+Core 2: 7 Percent 
+Core 3: 1 Percent 
+Total CPU Usage: 3 Percent 
+=======end======= 
+
+
+start time : 2023-05-07 01:18:37.948081 
+Physical cores: 4 
+Total cores: 4 
+Max Frequency: 4000 Mhz 
+Min Frequency: 0 Mhz 
+Current Frequency: 4000 Mhz 
+CPU Usage Per Core: Core 0: 9 Percent 
+Core 1: 3 Percent 
+Core 2: 6 Percent 
+Core 3: 3 Percent 
+Total CPU Usage: 6 Percent 
+=======end======= 
+
+
+start time : 2023-05-07 01:18:41.962892 
+Physical cores: 4 
+Total cores: 4 
+Max Frequency: 4000 Mhz 
+Min Frequency: 0 Mhz 
+Current Frequency: 4000 Mhz 
+CPU Usage Per Core: Core 0: 9 Percent 
+Core 1: 1 Percent 
+Core 2: 3 Percent 
+Core 3: 1 Percent 
+Total CPU Usage: 4 Percent 
+=======end======= 
+
+

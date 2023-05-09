@@ -1,0 +1,64 @@
+start time : 2023-05-07 01:16:32.150722 
+ === Device: C:\ === 
+Mountpoint: C:\ 
+File system typ: NTFS 
+Total Size: 160415346688 
+Used: 25338216448 
+Free: 135077130240 
+Percentage: 15.8  Percent
+ === Device: D:\ === 
+Mountpoint: D:\ 
+File system typ:  
+Total read: 18376518144 
+Total write: 19898744320 
+=======end======= 
+
+
+start time : 2023-05-07 01:18:34.942532 
+ === Device: C:\ === 
+Mountpoint: C:\ 
+File system typ: NTFS 
+Total Size: 160415346688 
+Used: 25338060800 
+Free: 135077285888 
+Percentage: 15.8  Percent
+ === Device: D:\ === 
+Mountpoint: D:\ 
+File system typ:  
+Total read: 18443066368 
+Total write: 20013877248 
+=======end======= 
+
+
+start time : 2023-05-07 01:18:38.957374 
+ === Device: C:\ === 
+Mountpoint: C:\ 
+File system typ: NTFS 
+Total Size: 160415346688 
+Used: 25338064896 
+Free: 135077281792 
+Percentage: 15.8  Percent
+ === Device: D:\ === 
+Mountpoint: D:\ 
+File system typ:  
+Total read: 18444970496 
+Total write: 20014603776 
+=======end======= 
+
+
+start time : 2023-05-07 01:18:42.973885 
+ === Device: C:\ === 
+Mountpoint: C:\ 
+File system typ: NTFS 
+Total Size: 160415346688 
+Used: 25338073088 
+Free: 135077273600 
+Percentage: 15.8  Percent
+ === Device: D:\ === 
+Mountpoint: D:\ 
+File system typ:  
+Total read: 18445298176 
+Total write: 20015009792 
+=======end======= 
+
+

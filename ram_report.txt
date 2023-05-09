@@ -1,0 +1,48 @@
+start time : 2023-05-07 01:16:32.147171 
+Total: 4293771264 
+Available: 372072448 
+Used: 3921698816 
+Percentage: 91 Percent 
+Total: 720322560 
+Free: 720322560 
+Used: 720322560 
+Percentage: 14 Percent 
+=======end======= 
+
+
+start time : 2023-05-07 01:18:34.694162 
+Total: 4293771264 
+Available: 419823616 
+Used: 3873947648 
+Percentage: 90 Percent 
+Total: 731869184 
+Free: 731869184 
+Used: 731869184 
+Percentage: 14 Percent 
+=======end======= 
+
+
+start time : 2023-05-07 01:18:38.953241 
+Total: 4293771264 
+Available: 418791424 
+Used: 3874979840 
+Percentage: 90 Percent 
+Total: 731738111 
+Free: 731738111 
+Used: 731738111 
+Percentage: 14 Percent 
+=======end======= 
+
+
+start time : 2023-05-07 01:18:42.968328 
+Total: 4293771264 
+Available: 418926592 
+Used: 3874844672 
+Percentage: 90 Percent 
+Total: 731738111 
+Free: 731738111 
+Used: 731738111 
+Percentage: 14 Percent 
+=======end======= 
+
+
